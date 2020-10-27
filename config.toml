@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://testsite1temp.netlify.app/"
 title = "Mainroad"
 languageCode = "ja"
 paginate = "10" # Number of posts per page
